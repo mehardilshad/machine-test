@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Task/static/css/main.2dc493dc.css",
+    "main.js": "/React-Task/static/js/main.4c517707.js",
+    "static/js/496.4e7ca53a.chunk.js": "/React-Task/static/js/496.4e7ca53a.chunk.js",
+    "static/media/image.png": "/React-Task/static/media/image.f483527b2b84c37c9e8f.png",
+    "static/media/login.jpg": "/React-Task/static/media/login.9b8f7eef3fb225d15fbd.jpg",
+    "static/media/DMSans-Regular.woff": "/React-Task/static/media/DMSans-Regular.6ef75e74b08091ab6a7e.woff",
+    "static/media/DMSans-Medium.woff": "/React-Task/static/media/DMSans-Medium.b026e72d0f540039c1ae.woff",
+    "static/media/DMSans-Bold.woff": "/React-Task/static/media/DMSans-Bold.8cfa0319eed913340b2b.woff",
+    "static/media/ebook.png": "/React-Task/static/media/ebook.6ba3f533e1652be993a2.png",
+    "static/media/cancelled.svg": "/React-Task/static/media/cancelled.c639a04423f7e5e1df948fb1f9588285.svg",
+    "static/media/our-team.svg": "/React-Task/static/media/our-team.d0bc66b4139fbbff3ea54cb036705425.svg",
+    "static/media/active-students.svg": "/React-Task/static/media/active-students.f0bf84cb9c7854ffb6fd9c28c0ccb77e.svg",
+    "static/media/account_circle.svg": "/React-Task/static/media/account_circle.eea63d6b4c924d941748b7d4e2f2106a.svg",
+    "static/media/students.svg": "/React-Task/static/media/students.5a870ec078ebe08515236942235e570f.svg",
+    "static/media/visibility.svg": "/React-Task/static/media/visibility.8285b9bdb62390b759c6b89c9bf94c62.svg",
+    "static/media/lock.svg": "/React-Task/static/media/lock.c0ff932f07f64b0f46e62b60c79f389f.svg",
+    "index.html": "/React-Task/index.html",
+    "main.2dc493dc.css.map": "/React-Task/static/css/main.2dc493dc.css.map",
+    "main.4c517707.js.map": "/React-Task/static/js/main.4c517707.js.map",
+    "496.4e7ca53a.chunk.js.map": "/React-Task/static/js/496.4e7ca53a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc493dc.css",
+    "static/js/main.4c517707.js"
+  ]
+}
