@@ -327,7 +327,7 @@ const InputBox = styled.div`
   }
   input {
     border: none;
-
+    height: auto;
     font-size: 18px;
     width: 100%;
     cursor: pointer;

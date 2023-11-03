@@ -278,9 +278,10 @@ const InputBox = styled.div`
     border: none;
     background-color: #f6f7f9;
     padding-left: 10px;
-    height: 20px;
+    height: auto;
     font-size: 20px;
     width: 100%;
+
     cursor: pointer;
     :focus {
       outline: none;

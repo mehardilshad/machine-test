@@ -260,6 +260,7 @@ const InputBox = styled.div`
     padding-left: 10px;
     font-size: 18px;
     width: 100%;
+    height: auto;
     cursor: pointer;
     @media all and (max-width: 1280px) {
       font-size: 16px;
